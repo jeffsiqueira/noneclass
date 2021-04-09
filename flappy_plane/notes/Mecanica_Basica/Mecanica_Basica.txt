@@ -1,0 +1,24 @@
+Nesta aula aprenderei a fazer um jogo chamado Flappy Plane.
+
+Este jogo possui alguns componentes a serem observados:
+
+1º Player:
+
+Ele estará estático na tela e só se movimentará para cima e para baixo continuamente.
+Caso ele colida com os obstáculos ou com o chão é fim de jogo para ele.
+
+2º Pontuação:
+
+A pontuação será recorrente, quanto mais tempo o Player desvia dos obstáculos e se mantem vivo,
+mais pontos serão adquiridos e chegando a determinada pontuação, o Level aumentará e consequentemente
+a sua dificuldade.
+
+3º Level:
+
+A cada determinada pontuação (Ex.: a cada 100 pontos alcançados), haverá uma mundança de velocidade no
+Player e aumentará o número de obstáculos, consequentemente também a Pontuação aumentará rapidamente.
+
+4º Obstáculos:
+
+Os obstáculos serão as Montanhas que se encontraram na parte superior e inferior da tela, alinhadas
+ou não, estes obstáculos se movimentarão horizontalmente, da direita para a esquerda.

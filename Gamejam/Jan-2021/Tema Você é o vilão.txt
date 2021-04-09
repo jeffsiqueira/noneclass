@@ -1,0 +1,13 @@
+TEMA DA GAMEJAM:
+
+Você é o vilão
+
+ESCOPO E MECANICAS:
+
+- Jogo Plataforma
+- Botão de Movimentação (WASD)
+- Botão de Interação (Space)
+
+O jogo se passará em um prédio onde o objetivo é chegar até o objeto a ser roubado,
+a ideia é acrescentar npcs que serão seguranças e alguns obstáculos para o jogador
+O jogo finaliza quando o jogador pega o item e foge por onde entrou.

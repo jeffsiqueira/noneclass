@@ -1,0 +1,62 @@
+GAMEJAM NONE CLASS 2ª EDIÇÃO
+
+TEMA: Você é o Vilão
+
+TAREFAS
+
+	0 - Ambiente de Teste
+		0.1 - Configuração básica de camera - FEITO
+		0.2 - Configuração básica de Background - FEITO
+	
+	1 - Personagem 
+		1.1 - Importar sprites - FEITO
+		1.2 - Criar objeto - FEITO
+		1.3 - Fazer a movimentação do personagem para a esquerda e para a direita - FEITO
+		1.4 - Animar o personagem quando ele se movimentar - FEITO
+		1.5 - Aplicar gravidade no personagem - FEITO
+		1.6 - Animar o personagem quando ele usa a habilidade "climber" - FEITO
+		1.7 - Desabilitar o climber - FEITO
+		1.8 - Animar o personagem quando ele usa a habilidade "steal" - FEITO
+		1.9 - Fazer o personagem subir e descer escadas - FEITO
+		1.10 - Fazer o personagem pegar o item - FEITO
+		1.11 - Ajuste na colisão de retangulo para elipse na sprite de movimento - FEITO
+	
+	
+	2 - Guarda / Inimigo
+		2.1 - Importar sprites - FEITO
+		2.2 - Criar objeto - FEITO
+		2.3 - Fazer a movimentação do inimigo -FEITO
+		2.4 - Fazer o inimigo andar e parar de forma randomica - FEITO
+		2.5 - Fazer o inimigo dedectar o jogador - FEITO
+		2.6 - Criar objeto de dano - FEITO
+		2.7 - Fazer o inimigo atacar o jogagor - FEITO
+		2.8 - Ao atacar o jogador e dar a Tela de Game Over - FEITO
+		2.9 - Corrigir o bug de atravessar paredes - FEITO
+		2.10 - Melhorar a perseguição ao player - FEITO (EM TESTES)
+
+	
+	3 - Itens
+		3.1 - Importar sprites -FEITO
+		3.2 - Criar objetos - FEITO
+		3.3 - Mostrar o número de quadros pegos - FEITO
+		3.4 - Desenhar o item pego na tela
+	
+	
+	4 - Tela de Game Over
+		4.1 - Criar tela de Game Over - FEITO
+		4.2 - Configurar a tela de Game Over - FEITO
+		4.3 - Reiniciar o jogo quando estiver na tela de Game Over - FEITO
+		
+	5 - Tela de Créditos para JAM - FEITO
+	
+	6 - 1º Tilemap
+		6.1 - Importar sprite - FEITO
+		6.2 - Criar tileset - FEITO
+		6.3 - Criar mapa - FEITO
+		
+	7 - Criar temporizador
+		7.1 - Desenhar o tempo na tela - FEITO
+		7.2 - Criar uma váriavel de tempo ajustavel para cada Room - FEITO
+		7.3 - Quando o tempo se esgota dá Game Over - FEITO
+		7.4 - Deixar o temporizador no 0 quando acabar o tempo - FEITO
+	

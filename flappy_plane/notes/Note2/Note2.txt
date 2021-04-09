@@ -1,0 +1,68 @@
+Etapas de produção
+
+1 - Player
+	1.1 - Importar sprite do player - FEITO
+	1.2 - Criar o objeto do player e anexar a sprite do player e coloca-lo na Room - FEITO
+	1.3 - Faz com que o player inicie o jogo caindo - FEITO
+	1.4 - Fazer o player subir clicando no SPACE - FEITO
+	1.5 - Simulando a gravidade continua - FEITO
+	1.6 - Limitando a queda do player - FEITO
+	1.7 - Reiniciar o Jogo quando o player colidir com o obstáculo - FEITO
+	1.8 - Criar uma fumaça quando o avião subir - FEITO
+	1.9 - Fazer a fumaça crescer -  FEITO
+	1.10 - Fazer a fumaça desaparecer - FEITO
+	1.11 - Remover a fumaça ao desaparecer - FEITO
+	1.12 - Reiniciar o jogo ao sair da tela - FEITO
+
+
+2 - Obstáculo
+	2.1 - Importar as sprites das montanhas - FEITO
+	2.2 - Criar o objeto das montanhas e anexar suas sprites - FEITO
+	2.3 - Ajustar o espaço entre as montanhas - FEITO
+	2.4 - Movendo as montanhas para a esquerda - FEITO
+	2.5 - Aumentando a velocidade das montahas ao subir de level - FEITO
+	2.6 - Remover as montanhas ao sair da tela - FEITO
+	
+
+3 - Geração procedual de obstáculos
+	3.1 - Criar um evento que repete - FEITO
+	3.2 - Criar montanhas - FEITO
+	3.3 - Alterar a frequencia da criação das montanhas - FEITO
+	3.4 - Alterar a posição das montanhas de forma aleatória - FEITO
+	3.5 - Ajustar o intervalo das montanhas ao level do jogo - FEITO
+
+
+4 - Background
+	4.1 - Importar a sprite do background - FEITO
+	4.2 - Criar movimento no background - FEITO
+	4.3 - Ajustar a velocidade do background com relação ao level - FEITO
+	4.4 - Criar chão - FEITO
+	
+	
+5 - Sistema de Pontos
+	5.1 - Criar e iniciar o sistema de pontos - FEITO
+	5.2 - Ganhando pontos - FEITO
+	5.3 - Exibindo os pontos - FEITO
+	5.4 - Multiplicar os pontos ganhos para level atual - FEITO
+	
+	
+6 - Sistema de Level
+	6.1 - Iniciando o sistema - FEITO
+	6.2 - Ganhando Level - FEITO
+	6.3 - Exibindo o Level - FEITO
+
+
+7 - Sons do Jogo
+	7.1 - Importado sons - FEITO
+	7.2 - Tocando a música de fundo - FEITO
+	7.3 - Tocando a música de level - FEITO
+
+
+8 - Tela Inicial
+	8.1 - Criando uma nova Room - FEITO
+	8.2 - Criando a sprite de apresentação - 
+	8.3 - Criando a animação da sprite de apresentação - FEITO
+	8.4 - Iniciando a transição de Rooms - FEITO
+	
+	
+	

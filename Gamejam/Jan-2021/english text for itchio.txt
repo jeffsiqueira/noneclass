@@ -1,0 +1,8 @@
+Hello Guys,
+
+The Bandit is a game creating for the 2ª Edition Gamejam Noneclass, and your object is sample: Steal the item and run for the exit where are you from!
+
+It's easy? No! You need escape the guards and can't let time run out!
+
+I'm thinking in
+
